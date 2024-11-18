@@ -1,5 +1,5 @@
 {% set name = "thrift-ls" %}
-{% set version = "0.2.0" %}
+{% set version = "0.2.5" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/joyme123/thrift-ls/archive/v{{ version }}.tar.gz
-  sha256: 7906902c140860f79851a0b8cb92afbc3b14ee2a3726d5fbad3e8333bea1219b
+  sha256: 877734c98b2f3d250bb4cb2f3d7d507b3ea25c66504d226caea5171c1d0a9a62
 
 build:
   number: 0
