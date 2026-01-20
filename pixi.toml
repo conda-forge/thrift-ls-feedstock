@@ -5,7 +5,7 @@
 
 [workspace]
 name = "thrift-ls-feedstock"
-version = "3.53.3"  # conda-smithy version used to generate this file
+version = "3.54.1"  # conda-smithy version used to generate this file
 description = "Pixi configuration for conda-forge/thrift-ls-feedstock"
 authors = ["@conda-forge/thrift-ls"]
 channels = ["conda-forge"]
