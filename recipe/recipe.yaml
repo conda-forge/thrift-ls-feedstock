@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.2.10"
+  version: "0.2.12"
 
 package:
   name: thrift-ls
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://github.com/joyme123/thrift-ls/archive/v${{ version }}.tar.gz
-  sha256: fcbbe0a9eff66de2d5fb39cd9719cc7ba7b3c1d6e6cd08a8309f118e4500a27f
+  sha256: e32d0c8b8bae241e8a829d88da156124ee5dad12aacfb55a462e868eec07bec0
 
 build:
   number: 0
